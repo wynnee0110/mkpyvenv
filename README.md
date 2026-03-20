@@ -6,10 +6,10 @@ A simple shell tool to instantly create Python projects with a virtual environme
 
 ## Features
 
-* 📁 Creates project folder
-* 🐍 Sets up virtual environment (`venv`)
-* ⚡ Activates environment automatically
-* 📄 Creates starter files (`main.py`, `requirements.txt`, `README.md`)
+*  Creates project folder
+*  Sets up virtual environment (`venv`)
+*  Activates environment automatically
+*  Creates starter files (`main.py`, `requirements.txt`, `README.md`)
 
 ---
 
