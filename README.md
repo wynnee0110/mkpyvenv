@@ -54,12 +54,3 @@ source venv/bin/activate
 
 ---
 
-##  Example
-
-```bash
-mkpy api
-cd api
-pip install flask
-pip freeze > requirements.txt
-```
-
