@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_URL="https://github.com/wynnee0110/mkpyvenv/install.sh"
+REPO_URL="https://raw.githubusercontent.com/wynnee0110/mkpyvenv/main/mkpy.sh"
 INSTALL_DIR="${INSTALL_DIR:-$HOME/.local/bin}"
 COMMAND_NAME="${COMMAND_NAME:-mkpy}"
 
