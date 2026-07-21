@@ -4,10 +4,10 @@ Create a small Python project with a virtual environment, starter files, and a G
 
 ## Install
 
-After you upload this repository to GitHub, update `YOUR_USERNAME` in `install.sh`, then users can install it with:
+
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/mkpy/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/wynnee0110/mkpy/install.sh | bash
 ```
 
 By default, this installs the command to `~/.local/bin/mkpy`.
