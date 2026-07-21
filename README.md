@@ -7,7 +7,7 @@ small Python project with a virtual environment, starter files, and a Git reposi
 
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/wynnee0110/mkpyvenv/install.sh | bash
+curl -fsSL https://github.com/wynnee0110/mkpyvenv/install.sh | bash
 ```
 
 By default, this installs the command to `~/.local/bin/mkpy`.
