@@ -1,6 +1,6 @@
 # mkpy
 
-Create a small Python project with a virtual environment, starter files, and a Git repository.
+small Python project with a virtual environment, starter files, and a Git repository.
 
 ## Install
 
